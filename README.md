@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 House Rental <a name="about-project"></a>
+# 📖 House Haven <a name="about-project"></a>
 
-**House Rental** contains the backend code for a House Rental App, which allows users to reserve a house, add new houses, and delete existing ones. The backend is built using Ruby On Rails and communicates with the front end of the app to provide a seamless user experience. The backend includes functionality for user authentication and authorization, allowing only authorized users to perform actions such as adding or deleting houses. It also includes a Postgresql database to store information about the houses available for rent, as well as information about user reservations.
+**House Haven** contains the backend code for a House Rental App, which allows users to reserve a house, add new houses, and delete existing ones. The backend is built using Ruby On Rails and communicates with the front end of the app to provide a seamless user experience. The backend includes functionality for user authentication and authorization, allowing only authorized users to perform actions such as adding or deleting houses. It also includes a Postgresql database to store information about the houses available for rent, as well as information about user reservations.
 
 ## 🛠 Built With <a name="built-with"></a>
 
